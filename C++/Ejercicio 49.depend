@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1491944453 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 49\main.cpp
+	<iostream>
+	"Facturacion.h"
+	"Casa.h"
+
+1491943436 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 49\include\facturacion.h
+	"Casa.h"
+	<iostream>
+
+1491943195 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 49\include\casa.h
+	<iostream>
+
+1491943273 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 49\src\casa.cpp
+	"Casa.h"
+
+1491944463 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 49\src\facturacion.cpp
+	"Facturacion.h"
+
